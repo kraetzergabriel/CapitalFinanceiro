@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CapitalFinanceiro</string>
+    <string name="txTaxaJuros">Taxa De Júros</string>
+    <string name="txCapitalAtual">Capital Atual</string>
+    <string name="btCalcular">Calcular</string>
+    <string name="valorFuturo">Valor futuro</string>
+    <string name="btOk">Ok</string>
+</resources>
